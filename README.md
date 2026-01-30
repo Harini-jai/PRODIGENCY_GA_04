@@ -1,7 +1,7 @@
 # PRODIGENCY_GA_04
 # Stable Diffusion Image Generation using PyTorch
 
-This project demonstrates how to generate images from text prompts using Stable Diffusion v1.5 with the 🤗 Diffusers library and PyTorch.
+This project demonstrates how to generate images from text prompts using Stable Diffusion v1.5 with the Diffusers library and PyTorch.
 
 Project Overview
 
